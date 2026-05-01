@@ -32,3 +32,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Exception: Allow the final release APK to upload
+!apk/*.apk
