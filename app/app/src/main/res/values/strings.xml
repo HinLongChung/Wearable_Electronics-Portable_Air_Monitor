@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AQI Monitor</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="sex_options">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Rather not to say</item>
+    </string-array>
+</resources>
